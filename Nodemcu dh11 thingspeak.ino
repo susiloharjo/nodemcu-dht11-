@@ -10,9 +10,9 @@
 #include <ESP8266WiFi.h>
 
 // replace with your channel's thingspeak API key,
-String apiKey = "SV550DXTJNZSZWO3";
-const char* ssid = "mnmkn";
-const char* password = "user.100";
+String apiKey = "";
+const char* ssid = "";
+const char* password = "";
 
 const char* server = "api.thingspeak.com";
 #define DHTPIN 4 // what pin we're connected to

@@ -11,8 +11,8 @@
 #define DHTTYPE DHT11
 #define DHTPIN  4
 
-const char* ssid     = "mnmkn";
-const char* password = "user.100";
+const char* ssid     = "";
+const char* password = "";
 
 ESP8266WebServer server(80);
 
